@@ -248,9 +248,9 @@ def tweet_generation_agent():
                     if not profile_image_url:
                         profile_image_url = "https://pbs.twimg.com/profile_images/1620795664589266944/XBEbRjPN_normal.jpg"
                     if not username:
-                        username = "Arindam"
+                        username = "Firoz"
                     if not handle:
-                        handle = "@Arindam_1729"
+                        handle = "@firozalam2749"
 
                     from twitter_agents import render_tweet_card
                     tweet_card_html = render_tweet_card(username, handle, profile_image_url, tweet_content)

@@ -61,7 +61,7 @@ def send_email(to:str, subject:str, body:str):
     """
     print(f"Sending email to {to}")
     params = {
-        "from": "hi@arindammajumder.com",  # Replace with your verified sender email
+        "from": "firozalam.786123@gmail.com",  # Replace with your verified sender email
         "to": [to],
         "subject": subject,
         "html": body,

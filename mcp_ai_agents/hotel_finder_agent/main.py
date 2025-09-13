@@ -84,7 +84,7 @@ with st.sidebar:
 
     st.markdown("---")
 
-    st.markdown("Built with ❤️ by Arindam Majumder")
+    st.markdown("Built with ❤️ by firoz alam")
 
     
 

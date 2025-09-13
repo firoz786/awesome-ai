@@ -93,7 +93,7 @@ def book_example_call():
     agent.print_response("""
     Please book a call with these details:
     - Start Time: 2025-03-22T21:30:00+05:30
-    - Name: Arindam Majumder
+    - Name: firoz alam
     - Email: studioone.tech@gmail.com
     
     After booking, please verify the booking exists.

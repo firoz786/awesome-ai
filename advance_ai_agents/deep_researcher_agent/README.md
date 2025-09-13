@@ -190,4 +190,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Author
 
-Developed with ❤️ by [Arindam Majumder](https://www.youtube.com/c/Arindam_1729)
+Developed with ❤️ by [firoz alam](https://www.youtube.com/c/firozalam2749)

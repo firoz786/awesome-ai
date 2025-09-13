@@ -53,7 +53,7 @@ async def main():
             email_agent = await setup_email_agent(mcp_server)
             # Example message - modify as needed
             message = f"""Configure email with sender name 'Arindam MCP Agent', \
-            email 'arindammajumder2020@gmail.com', and passkey '{PASSKEY}' \
+            email 'firozalam.786123@gmail.com', and passkey '{PASSKEY}' \
             then send an email to'studioone.tech@gmail.com' with subject \
             'Test Email' and body 'Hello from Email MCP!'"""
             

@@ -11,7 +11,7 @@ load_dotenv()
 
 
 # UserId for the memories
-user_id = "arindam"
+user_id = "Firoz"
 # Database file for memory and storage
 db_file = "tmp/agent.db"
 
@@ -48,12 +48,12 @@ memory_agent = Agent(
 
 memory.clear()
 memory_agent.print_response(
-    "My name is Arindam and I support Mohun Bagan.",
+    "My name is Firoz and I support Mohun Bagan.",
     user_id=user_id,
     stream=True,
     stream_intermediate_steps=True,
 )
-print("Memories about Arindam:")
+print("Memories about Firoz:")
 pprint(memory.get_user_memories(user_id=user_id))
 
 memory_agent.print_response(
@@ -62,14 +62,14 @@ memory_agent.print_response(
     stream=True,
     stream_intermediate_steps=True,
 )
-print("Memories about Arindam:")
+print("Memories about Firoz:")
 pprint(memory.get_user_memories(user_id=user_id))
 
 memory_agent.print_response(
-    "Tell me about Arindam",
+    "Tell me about Firoz",
     user_id=user_id,
     stream=True,
     stream_intermediate_steps=True,
 )
-print("Memories about Arindam:")
+print("Memories about Firoz:")
 pprint(memory.get_user_memories(user_id=user_id))

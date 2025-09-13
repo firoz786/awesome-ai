@@ -62,7 +62,7 @@ uv run main.py
 
 The application demonstrates a three-step conversation flow:
 
-1. **Introduction**: User introduces themselves ("My name is Arindam and I support Mohun Bagan.")
+1. **Introduction**: User introduces themselves ("My name is Firoz and I support Mohun Bagan.")
 2. **Location Query**: User asks for recommendations based on their location ("I live in Kolkata, where should i move within a 4 hour drive?")
 3. **Memory Recall**: User asks the agent to recall information about them ("Tell me about Arindam")
 

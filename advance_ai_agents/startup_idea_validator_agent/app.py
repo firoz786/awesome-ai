@@ -59,7 +59,7 @@ with st.sidebar:
     )
     st.markdown("---")
     st.markdown(
-        "Developed with ❤️ by [Arindam Majumder](https://www.youtube.com/c/Arindam_1729)"
+        "Developed with ❤️ by [firoz alam](https://www.youtube.com/c/firozalam2749)"
     )
 
 idea = st.chat_input("Type your message...")
